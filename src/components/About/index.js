@@ -14,13 +14,13 @@ export default function About() {
       {/*fix the css */}
       <div className="mainContent">
         <p>
-          Over the past 20 years I have continuously challenged myself with new
-          languages, frameworks and methodologies. My core languages have always
-          been html, css & javascript but I have also worked as a full stack php
-          developer building both bespoke CMS solutions and small business
-          applications. My current role at IAG is Senior Front End Developer (or
-          Senior Software Engineer as IAG prefer to label us) and have been
-          developing with React and Redux for the past 4 years.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat. Duis aute irure dolor in
+          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+          culpa qui officia deserunt mollit anim id est laborum.
         </p>
         <hr />
       </div>
