@@ -13,7 +13,7 @@ export default function Volunteer() {
       <div className="mainContent">
         <h3> Office Work</h3>
         <h4>Ministry Of Health</h4>
-        <p>08/2021 - 10/2021</p>
+        <p>07/2021 - 10/2021</p>
       </div>
       <hr />
     </div>
