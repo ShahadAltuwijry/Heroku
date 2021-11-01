@@ -7,7 +7,6 @@ import Skills from "./components/Skills";
 import Education from "./components/Education";
 import Volunteer from "./components/Volunteer";
 
-
 function App() {
   return (
     <div className="app">
@@ -20,9 +19,9 @@ function App() {
       <div className="mainSection">
         <div className="sections">
           <About />
+          <Volunteer />
           <Skills />
           <Education />
-          <Volunteer />
         </div>
       </div>
     </div>

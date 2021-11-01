@@ -15,6 +15,7 @@ export default function Volunteer() {
         <h4>Ministry Of Health</h4>
         <p>08/2021 - 10/2021</p>
       </div>
+      <hr />
     </div>
   );
 }
