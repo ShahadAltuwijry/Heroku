@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.pfp {
+  width: 50%;
+  height: auto;
+}
+
+.job {
+    color: rgb(110, 110, 110);
+}
+.cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.icon {
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  padding-right: 15px;
+  padding-top: 15px;
+}
