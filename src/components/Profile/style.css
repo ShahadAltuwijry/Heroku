@@ -4,8 +4,10 @@
   justify-content: space-between;
 }
 .pfp {
-  width: 50%;
+  width: 60%;
   height: auto;
+  border: 1px black solid;
+  border-radius: 100%;
 }
 
 .job {

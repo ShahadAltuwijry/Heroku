@@ -7,7 +7,7 @@ export default function Profile() {
       <div className="pImg">
         <img
           className="pfp"
-          src="https://cdn3.iconfinder.com/data/icons/social-messaging-productivity-6/128/profile-female-circle2-1024.png"
+          src="https://media-exp1.licdn.com/dms/image/C5603AQE7xlM7-ozPew/profile-displayphoto-shrink_400_400/0/1635454764473?e=1641427200&v=beta&t=9e4ADIsscE5xXfMeIPbGx9nblHWef1aSZjV1jvAavxI"
         />
       </div>
       {/*make the css for img and h2 & h3 ,img size & headings colors and text center + icons size and center */}
